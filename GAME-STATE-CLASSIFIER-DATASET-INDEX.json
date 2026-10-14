@@ -1,0 +1,38 @@
+[
+  {
+    "path": "screenshots/bet002-poll3.png",
+    "sha256_prefix": "f4a76752aaa726b7",
+    "width": 1003,
+    "height": 752,
+    "label": "MAIN_GAME",
+    "label_reason": "底部14张牌可见",
+    "label_confidence": "high"
+  },
+  {
+    "path": "screenshots/e2e-post-5s.png",
+    "sha256_prefix": "e40de97fe56bc072",
+    "width": 1003,
+    "height": 752,
+    "label": "REWARD",
+    "label_reason": "顶部'喜從天降'大字",
+    "label_confidence": "high"
+  },
+  {
+    "path": "screenshots/bet002-reliable-result.png",
+    "sha256_prefix": "9c7718d8914ca806",
+    "width": 1003,
+    "height": 752,
+    "label": "ODDS",
+    "label_reason": "顶部'ODDS'英文，赔率表",
+    "label_confidence": "high"
+  },
+  {
+    "path": "screenshots/demoA-t0.png",
+    "sha256_prefix": "43b94a3849e0769f",
+    "width": 1003,
+    "height": 752,
+    "label": "TITLE",
+    "label_reason": "大标题'超級大滿貫II'",
+    "label_confidence": "high"
+  }
+]

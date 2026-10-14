@@ -1,0 +1,16 @@
+{
+  "input": "screenshots/demoA-t10.png",
+  "timestamp": "2026-10-14T12:34:13.914300",
+  "image_info": {
+    "width": 1003,
+    "height": 752,
+    "mode": "RGB"
+  },
+  "state": {
+    "state": "UNKNOWN",
+    "confidence": 0.0,
+    "reason": "insufficient_features"
+  },
+  "tiles": [],
+  "consistency": null
+}

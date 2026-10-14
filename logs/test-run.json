@@ -1,0 +1,88 @@
+[
+ {
+  "pass": true,
+  "detail": "OK",
+  "size": [
+   1003,
+   731
+  ],
+  "id": "T1",
+  "name": "画面可采集",
+  "timestamp": "2026-10-14T00:47:41.827555",
+  "status": "PASS"
+ },
+ {
+  "pass": true,
+  "detail": "sent (verify via screenshot)",
+  "id": "T2",
+  "name": "菜单输入响应",
+  "timestamp": "2026-10-14T00:47:50.219043",
+  "status": "PASS"
+ },
+ {
+  "pass": true,
+  "detail": "ODDS conf=1.00",
+  "id": "T3",
+  "name": "对局状态识别",
+  "timestamp": "2026-10-14T00:48:01.043479",
+  "status": "PASS"
+ },
+ {
+  "pass": false,
+  "detail": "自动牌面识别未实现，需人工",
+  "note": "位置检测已知，分类未实现",
+  "id": "T4",
+  "name": "牌面识别",
+  "timestamp": "2026-10-14T00:48:01.043559",
+  "status": "FAIL"
+ },
+ {
+  "pass": true,
+  "detail": "CREDIT区域定位已知，OCR未实现",
+  "note": "人工可读，自动OCR待实现",
+  "id": "T5",
+  "name": "分数变化检测",
+  "timestamp": "2026-10-14T00:48:01.043574",
+  "status": "PASS"
+ },
+ {
+  "pass": true,
+  "detail": "ActionExecutor.execute() 已实现截图前后对比",
+  "id": "T6",
+  "name": "操作后画面变化",
+  "timestamp": "2026-10-14T00:48:01.043601",
+  "status": "PASS"
+ },
+ {
+  "pass": true,
+  "detail": "正确处理失败: 截图失败: cannot identify image file '/tmp/sr.png'",
+  "id": "T7",
+  "name": "截图失败处理",
+  "timestamp": "2026-10-14T00:48:05.382926",
+  "status": "PASS"
+ },
+ {
+  "pass": true,
+  "detail": "2次:True, 3次停止:True",
+  "id": "T8",
+  "name": "中断恢复",
+  "timestamp": "2026-10-14T00:48:05.383252",
+  "status": "PASS"
+ },
+ {
+  "pass": true,
+  "detail": "耗时2.0s, keydown failed/timeout",
+  "id": "T9",
+  "name": "输入超时处理",
+  "timestamp": "2026-10-14T00:48:07.386615",
+  "status": "PASS"
+ },
+ {
+  "pass": true,
+  "detail": "InputAdapter未使用windowactivate",
+  "id": "T10",
+  "name": "无永久挂起",
+  "timestamp": "2026-10-14T00:48:07.397694",
+  "status": "PASS"
+ }
+]

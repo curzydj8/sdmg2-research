@@ -1,0 +1,25 @@
+{
+  "audit_date": "2026-10-14",
+  "source_screenshot": {
+    "path": "screenshots/bet002-poll3.png",
+    "width": 1003,
+    "height": 752,
+    "size_kb": 284
+  },
+  "tile_crop": {
+    "path": "outputs/crops/bet002-poll3-tile-01.png",
+    "width": 67,
+    "height": 120,
+    "size_kb": 5.4
+  },
+  "native_resolution": {
+    "width": 512,
+    "height": 240,
+    "source": "igs017.cpp:4639-4640",
+    "tile_width_px": 36
+  },
+  "root_cause": "C",
+  "root_cause_description": "原始画面使用低分辨率像素图形，即使放大也没有新增细节",
+  "human_readable": false,
+  "recommendation": "pause_vision"
+}

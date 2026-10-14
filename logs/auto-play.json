@@ -1,0 +1,19 @@
+[
+ {
+  "event": "state",
+  "detail": "ODDS (conf=1.00)",
+  "timestamp": "2026-10-14T00:48:54.868526"
+ },
+ {
+  "event": "action",
+  "detail": "('coin',) -> {'success': True, 'before_state': 'ODDS', 'after_state': 'ODDS', 'before_conf': 1.0, 'after_conf': 1.0, 'note': 'sent (verify via screenshot)'}",
+  "success": true,
+  "timestamp": "2026-10-14T00:49:29.180898"
+ },
+ {
+  "event": "action",
+  "detail": "('start',) -> {'success': True, 'before_state': 'ODDS', 'after_state': 'ODDS', 'before_conf': 1.0, 'after_conf': 1.0, 'note': 'sent (verify via screenshot)'}",
+  "success": true,
+  "timestamp": "2026-10-14T00:50:00.964187"
+ }
+]

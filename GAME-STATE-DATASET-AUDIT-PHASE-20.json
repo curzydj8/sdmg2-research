@@ -1,0 +1,35 @@
+{
+  "total_indexed": 4,
+  "valid": 4,
+  "invalid": 0,
+  "details": [
+    {
+      "path": "screenshots/bet002-poll3.png",
+      "label": "MAIN_GAME",
+      "status": "valid",
+      "sha_match": true,
+      "label_source": "human_confirmed"
+    },
+    {
+      "path": "screenshots/e2e-post-5s.png",
+      "label": "REWARD",
+      "status": "valid",
+      "sha_match": true,
+      "label_source": "human_confirmed"
+    },
+    {
+      "path": "screenshots/bet002-reliable-result.png",
+      "label": "ODDS",
+      "status": "valid",
+      "sha_match": true,
+      "label_source": "human_confirmed"
+    },
+    {
+      "path": "screenshots/demoA-t0.png",
+      "label": "TITLE",
+      "status": "valid",
+      "sha_match": true,
+      "label_source": "human_confirmed"
+    }
+  ]
+}

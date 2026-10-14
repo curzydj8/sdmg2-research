@@ -1,0 +1,1338 @@
+{
+  "generated": "2026-10-14T21:15:58.252782",
+  "screenshots": {
+    "count": 115,
+    "items": [
+      {
+        "file": "after-bonus.png",
+        "size": 444113,
+        "mtime": "2026-10-14T10:40:26.167718"
+      },
+      {
+        "file": "after-start-key.png",
+        "size": 594180,
+        "mtime": "2026-10-14T10:00:20.732065"
+      },
+      {
+        "file": "auto-last.png",
+        "size": 612112,
+        "mtime": "2026-10-14T16:32:05.636409"
+      },
+      {
+        "file": "base-main.png",
+        "size": 266292,
+        "mtime": "2026-10-14T11:28:17.925029"
+      },
+      {
+        "file": "base-t0.png",
+        "size": 401973,
+        "mtime": "2026-10-14T11:27:39.802753"
+      },
+      {
+        "file": "base-t1.png",
+        "size": 400688,
+        "mtime": "2026-10-14T11:27:46.829929"
+      },
+      {
+        "file": "base-t2.png",
+        "size": 306161,
+        "mtime": "2026-10-14T11:27:53.359714"
+      },
+      {
+        "file": "bet002-poll3.png",
+        "size": 290647,
+        "mtime": "2026-10-14T12:22:26.959824"
+      },
+      {
+        "file": "bet002-poll6.png",
+        "size": 448053,
+        "mtime": "2026-10-14T12:22:07.578449"
+      },
+      {
+        "file": "bet002-reliable-result.png",
+        "size": 610423,
+        "mtime": "2026-10-14T12:26:13.873445"
+      },
+      {
+        "file": "bet002-verify.png",
+        "size": 446509,
+        "mtime": "2026-10-14T12:23:05.931297"
+      },
+      {
+        "file": "bonus-a.png",
+        "size": 438812,
+        "mtime": "2026-10-14T10:37:06.709965"
+      },
+      {
+        "file": "bonus-current.png",
+        "size": 275088,
+        "mtime": "2026-10-14T10:35:56.406403"
+      },
+      {
+        "file": "bonus-start.png",
+        "size": 444113,
+        "mtime": "2026-10-14T10:37:53.467241"
+      },
+      {
+        "file": "bonus2.png",
+        "size": 424031,
+        "mtime": "2026-10-14T10:39:53.845535"
+      },
+      {
+        "file": "check-main.png",
+        "size": 290647,
+        "mtime": "2026-10-14T11:52:08.020533"
+      },
+      {
+        "file": "coin-test-1.png",
+        "size": 594180,
+        "mtime": "2026-10-14T09:59:46.652973"
+      },
+      {
+        "file": "coin-test-2.png",
+        "size": 594180,
+        "mtime": "2026-10-14T09:59:46.658973"
+      },
+      {
+        "file": "coin-test-3.png",
+        "size": 594180,
+        "mtime": "2026-10-14T09:59:46.663974"
+      },
+      {
+        "file": "coinA-t0-boot.png",
+        "size": 811,
+        "mtime": "2026-10-14T11:12:30.401940"
+      },
+      {
+        "file": "coinA-t1-coin1s.png",
+        "size": 811,
+        "mtime": "2026-10-14T11:12:43.647940"
+      },
+      {
+        "file": "coinA-t2-coin5s.png",
+        "size": 811,
+        "mtime": "2026-10-14T11:12:47.894940"
+      },
+      {
+        "file": "coinA-t3-coin15s.png",
+        "size": 811,
+        "mtime": "2026-10-14T11:12:51.705940"
+      },
+      {
+        "file": "coinA2-t0-boot.png",
+        "size": 29,
+        "mtime": "2026-10-14T11:15:47.404938"
+      },
+      {
+        "file": "coinA2-t1-1s.png",
+        "size": 811,
+        "mtime": "2026-10-14T11:15:50.778938"
+      },
+      {
+        "file": "coinA2-t2-5s.png",
+        "size": 811,
+        "mtime": "2026-10-14T11:15:54.041938"
+      },
+      {
+        "file": "coinA2-t3-15s.png",
+        "size": 811,
+        "mtime": "2026-10-14T11:15:57.601938"
+      },
+      {
+        "file": "coinB-b1.png",
+        "size": 339141,
+        "mtime": "2026-10-14T11:19:23.283892"
+      },
+      {
+        "file": "coina-t1.png",
+        "size": 416388,
+        "mtime": "2026-10-14T11:17:13.093658"
+      },
+      {
+        "file": "coina-t2.png",
+        "size": 444113,
+        "mtime": "2026-10-14T11:17:39.475755"
+      },
+      {
+        "file": "demoA-t0.png",
+        "size": 404840,
+        "mtime": "2026-10-14T11:48:31.803896"
+      },
+      {
+        "file": "demoA-t10.png",
+        "size": 446870,
+        "mtime": "2026-10-14T11:48:49.857783"
+      },
+      {
+        "file": "demoA-t15.png",
+        "size": 447952,
+        "mtime": "2026-10-14T11:49:03.501602"
+      },
+      {
+        "file": "demoA-t20.png",
+        "size": 42123,
+        "mtime": "2026-10-14T11:49:07.868099"
+      },
+      {
+        "file": "demoA-t5.png",
+        "size": 290647,
+        "mtime": "2026-10-14T11:48:39.821021"
+      },
+      {
+        "file": "demoB-after-0s.png",
+        "size": 290647,
+        "mtime": "2026-10-14T11:51:01.080653"
+      },
+      {
+        "file": "demoB-after-5s.png",
+        "size": 610423,
+        "mtime": "2026-10-14T11:51:12.630922"
+      },
+      {
+        "file": "demoB-b-after1s.png",
+        "size": 610423,
+        "mtime": "2026-10-14T11:52:49.328484"
+      },
+      {
+        "file": "demoB-b-after5s.png",
+        "size": 610423,
+        "mtime": "2026-10-14T11:53:01.009917"
+      },
+      {
+        "file": "demoB-b-before.png",
+        "size": 438812,
+        "mtime": "2026-10-14T11:52:38.061279"
+      },
+      {
+        "file": "demoB-before.png",
+        "size": 410630,
+        "mtime": "2026-10-14T11:50:49.080563"
+      },
+      {
+        "file": "e2e-post-5s.png",
+        "size": 444113,
+        "mtime": "2026-10-14T13:01:00.422300"
+      },
+      {
+        "file": "expA-boot.png",
+        "size": 391036,
+        "mtime": "2026-10-14T10:49:47.952797"
+      },
+      {
+        "file": "expA-coin.png",
+        "size": 610423,
+        "mtime": "2026-10-14T10:50:35.298435"
+      },
+      {
+        "file": "expA-start.png",
+        "size": 610423,
+        "mtime": "2026-10-14T10:51:02.066950"
+      },
+      {
+        "file": "focus-coin-result.png",
+        "size": 594180,
+        "mtime": "2026-10-14T10:01:40.963297"
+      },
+      {
+        "file": "focus-start-result.png",
+        "size": 594180,
+        "mtime": "2026-10-14T10:02:12.638797"
+      },
+      {
+        "file": "gameplay-20261014.png",
+        "size": 370254,
+        "mtime": "2026-10-14T08:58:18.532246"
+      },
+      {
+        "file": "joy-coined.png",
+        "size": 37150,
+        "mtime": "2026-10-14T15:05:58.830392"
+      },
+      {
+        "file": "joy-dip.png",
+        "size": 37158,
+        "mtime": "2026-10-14T15:05:16.445882"
+      },
+      {
+        "file": "keytest-after-a.png",
+        "size": 306161,
+        "mtime": "2026-10-14T11:31:27.250010"
+      },
+      {
+        "file": "keytest-before.png",
+        "size": 406916,
+        "mtime": "2026-10-14T11:31:19.633568"
+      },
+      {
+        "file": "latest-game.png",
+        "size": 564759,
+        "mtime": "2026-10-14T09:13:19.113114"
+      },
+      {
+        "file": "latest2.png",
+        "size": 564759,
+        "mtime": "2026-10-14T09:36:07.065578"
+      },
+      {
+        "file": "main1.png",
+        "size": 811,
+        "mtime": "2026-10-14T10:41:50.561954"
+      },
+      {
+        "file": "main2.png",
+        "size": 811,
+        "mtime": "2026-10-14T10:42:15.242954"
+      },
+      {
+        "file": "odds-20261014.png",
+        "size": 688709,
+        "mtime": "2026-10-14T08:31:20.237180"
+      },
+      {
+        "file": "oddsA-odds-baseline.png",
+        "size": 325168,
+        "mtime": "2026-10-14T11:57:00.342080"
+      },
+      {
+        "file": "oddsA-start-0s.png",
+        "size": 448053,
+        "mtime": "2026-10-14T11:57:09.566899"
+      },
+      {
+        "file": "oddsA-start-5s.png",
+        "size": 446920,
+        "mtime": "2026-10-14T11:57:18.286144"
+      },
+      {
+        "file": "play-after-alt.png",
+        "size": 610423,
+        "mtime": "2026-10-14T14:58:08.750145"
+      },
+      {
+        "file": "play-after-bet.png",
+        "size": 604801,
+        "mtime": "2026-10-14T14:57:16.581057"
+      },
+      {
+        "file": "play-after-coin.png",
+        "size": 610423,
+        "mtime": "2026-10-14T14:56:48.744057"
+      },
+      {
+        "file": "play-after-start.png",
+        "size": 610423,
+        "mtime": "2026-10-14T14:57:44.790050"
+      },
+      {
+        "file": "play-boot.png",
+        "size": 423165,
+        "mtime": "2026-10-14T14:56:15.912861"
+      },
+      {
+        "file": "q002-dip.png",
+        "size": 62359,
+        "mtime": "2026-10-14T15:01:33.597255"
+      },
+      {
+        "file": "q002-input1.png",
+        "size": 23161,
+        "mtime": "2026-10-14T15:00:31.909907"
+      },
+      {
+        "file": "q002-input2.png",
+        "size": 23161,
+        "mtime": "2026-10-14T15:00:46.599380"
+      },
+      {
+        "file": "q002-input3.png",
+        "size": 37110,
+        "mtime": "2026-10-14T15:01:14.026381"
+      },
+      {
+        "file": "q002-tab-menu.png",
+        "size": 42974,
+        "mtime": "2026-10-14T14:59:54.434000"
+      },
+      {
+        "file": "q002-tab2.png",
+        "size": 37110,
+        "mtime": "2026-10-14T15:00:15.576826"
+      },
+      {
+        "file": "resume-bet-test.png",
+        "size": 605775,
+        "mtime": "2026-10-14T16:35:28.327248"
+      },
+      {
+        "file": "resume-bet-test2.png",
+        "size": 611413,
+        "mtime": "2026-10-14T16:35:58.547839"
+      },
+      {
+        "file": "resume-coined.png",
+        "size": 425490,
+        "mtime": "2026-10-14T16:34:20.539746"
+      },
+      {
+        "file": "resume-coined3.png",
+        "size": 611413,
+        "mtime": "2026-10-14T16:34:55.677047"
+      },
+      {
+        "file": "resume-test1.png",
+        "size": 42974,
+        "mtime": "2026-10-14T16:33:20.338595"
+      },
+      {
+        "file": "resume-test2.png",
+        "size": 408457,
+        "mtime": "2026-10-14T16:33:46.146596"
+      },
+      {
+        "file": "reuse-test.png",
+        "size": 594180,
+        "mtime": "2026-10-14T10:02:54.903597"
+      },
+      {
+        "file": "round1-boot.png",
+        "size": 390219,
+        "mtime": "2026-10-14T14:07:22.963232"
+      },
+      {
+        "file": "round1-pre-coin.png",
+        "size": 266292,
+        "mtime": "2026-10-14T14:08:15.453851"
+      },
+      {
+        "file": "s2-after-coin.png",
+        "size": 594180,
+        "mtime": "2026-10-14T09:58:28.264173"
+      },
+      {
+        "file": "s2-baseline.png",
+        "size": 594180,
+        "mtime": "2026-10-14T09:58:09.943208"
+      },
+      {
+        "file": "stab1.png",
+        "size": 438812,
+        "mtime": "2026-10-14T11:28:46.434577"
+      },
+      {
+        "file": "stab2.png",
+        "size": 461546,
+        "mtime": "2026-10-14T11:28:53.590339"
+      },
+      {
+        "file": "tab-test.png",
+        "size": 594180,
+        "mtime": "2026-10-14T10:03:40.086900"
+      },
+      {
+        "file": "timing-frame-0.png",
+        "size": 811,
+        "mtime": "2026-10-14T11:34:46.653929"
+      },
+      {
+        "file": "timing-frame-10.png",
+        "size": 811,
+        "mtime": "2026-10-14T11:34:53.540930"
+      },
+      {
+        "file": "timing-frame-15.png",
+        "size": 811,
+        "mtime": "2026-10-14T11:34:56.661930"
+      },
+      {
+        "file": "timing-frame-20.png",
+        "size": 811,
+        "mtime": "2026-10-14T11:35:00.237930"
+      },
+      {
+        "file": "timing-frame-5.png",
+        "size": 811,
+        "mtime": "2026-10-14T11:34:49.805930"
+      },
+      {
+        "file": "topup-after-click.png",
+        "size": 392254,
+        "mtime": "2026-10-14T14:14:36.718231"
+      },
+      {
+        "file": "topup-after-info.png",
+        "size": 42974,
+        "mtime": "2026-10-14T14:14:04.382571"
+      },
+      {
+        "file": "topup-post-5.png",
+        "size": 610423,
+        "mtime": "2026-10-14T14:16:39.403437"
+      },
+      {
+        "file": "topup-startup.png",
+        "size": 42974,
+        "mtime": "2026-10-14T14:13:42.227066"
+      },
+      {
+        "file": "topup-t15s.png",
+        "size": 425312,
+        "mtime": "2026-10-14T14:15:14.931231"
+      },
+      {
+        "file": "topup-t35s.png",
+        "size": 461546,
+        "mtime": "2026-10-14T14:16:06.425624"
+      },
+      {
+        "file": "ui-tab-test.png",
+        "size": 414936,
+        "mtime": "2026-10-14T12:30:49.977576"
+      },
+      {
+        "file": "vnc-check.png",
+        "size": 618674,
+        "mtime": "2026-10-14T21:01:25.056943"
+      },
+      {
+        "file": "vnc-current.png",
+        "size": 285609,
+        "mtime": "2026-10-14T20:56:05.464656"
+      },
+      {
+        "file": "vnc-started.png",
+        "size": 54314,
+        "mtime": "2026-10-14T20:57:09.478266"
+      },
+      {
+        "file": "vnc-started2.png",
+        "size": 54314,
+        "mtime": "2026-10-14T20:57:34.111247"
+      },
+      {
+        "file": "xvfb-game1.png",
+        "size": 42974,
+        "mtime": "2026-10-14T10:23:00.495713"
+      },
+      {
+        "file": "xvfb-game10.png",
+        "size": 45462,
+        "mtime": "2026-10-14T10:27:13.308467"
+      },
+      {
+        "file": "xvfb-game11.png",
+        "size": 318368,
+        "mtime": "2026-10-14T10:28:51.268130"
+      },
+      {
+        "file": "xvfb-game12.png",
+        "size": 610423,
+        "mtime": "2026-10-14T10:29:18.167738"
+      },
+      {
+        "file": "xvfb-game13.png",
+        "size": 427894,
+        "mtime": "2026-10-14T10:34:04.539484"
+      },
+      {
+        "file": "xvfb-game14.png",
+        "size": 460334,
+        "mtime": "2026-10-14T10:34:29.388044"
+      },
+      {
+        "file": "xvfb-game2.png",
+        "size": 42974,
+        "mtime": "2026-10-14T10:23:19.562027"
+      },
+      {
+        "file": "xvfb-game3.png",
+        "size": 318368,
+        "mtime": "2026-10-14T10:23:49.437027"
+      },
+      {
+        "file": "xvfb-game4.png",
+        "size": 610423,
+        "mtime": "2026-10-14T10:24:13.974149"
+      },
+      {
+        "file": "xvfb-game5.png",
+        "size": 610423,
+        "mtime": "2026-10-14T10:24:38.172557"
+      },
+      {
+        "file": "xvfb-game6.png",
+        "size": 604801,
+        "mtime": "2026-10-14T10:25:07.852372"
+      },
+      {
+        "file": "xvfb-game7.png",
+        "size": 610423,
+        "mtime": "2026-10-14T10:26:00.773662"
+      },
+      {
+        "file": "xvfb-game8.png",
+        "size": 604801,
+        "mtime": "2026-10-14T10:26:26.723468"
+      },
+      {
+        "file": "xvfb-game9.png",
+        "size": 45462,
+        "mtime": "2026-10-14T10:26:55.867747"
+      }
+    ]
+  },
+  "documents": {
+    "count": 150,
+    "items": [
+      {
+        "file": "ACTIONABLE-STATE-GATE-DESIGN.md",
+        "size": 629,
+        "mtime": "2026-10-14T14:11:39.632231"
+      },
+      {
+        "file": "AUTO-PLAY-REPORT.md",
+        "size": 3740,
+        "mtime": "2026-10-14T09:49:58.574978"
+      },
+      {
+        "file": "AUTO-RESUME-REPORT.md",
+        "size": 1093,
+        "mtime": "2026-10-14T16:36:11.674602"
+      },
+      {
+        "file": "AUTONOMOUS-ACTION-SAFETY-POLICY.md",
+        "size": 754,
+        "mtime": "2026-10-14T14:00:05.687234"
+      },
+      {
+        "file": "AUTONOMOUS-EXPERIMENT-PLANNER-PHASE-30.md",
+        "size": 739,
+        "mtime": "2026-10-14T14:51:05.497357"
+      },
+      {
+        "file": "AUTONOMOUS-GAME-LEARNING-ARCHITECTURE.md",
+        "size": 1101,
+        "mtime": "2026-10-14T13:59:59.837234"
+      },
+      {
+        "file": "AUTONOMOUS-LEARNING-CONTROLLER-DESIGN-PHASE-30.md",
+        "size": 887,
+        "mtime": "2026-10-14T14:50:55.476357"
+      },
+      {
+        "file": "BET-ISOLATED-ENVIRONMENT-REPORT.md",
+        "size": 1028,
+        "mtime": "2026-10-14T12:16:47.503910"
+      },
+      {
+        "file": "BET-KEY-CORE-MAPPING-AUDIT.md",
+        "size": 1762,
+        "mtime": "2026-10-14T12:10:23.398913"
+      },
+      {
+        "file": "BET-KEY-MAPPING-FOLLOWUP.md",
+        "size": 1418,
+        "mtime": "2026-10-14T12:16:36.644910"
+      },
+      {
+        "file": "BET-KEY-SOURCE-AUDIT.md",
+        "size": 1212,
+        "mtime": "2026-10-14T12:00:30.437918"
+      },
+      {
+        "file": "BET-MAPPING-MECHANISM.md",
+        "size": 1405,
+        "mtime": "2026-10-14T12:28:12.169905"
+      },
+      {
+        "file": "BET-UI-BINDING-REPORT.md",
+        "size": 1008,
+        "mtime": "2026-10-14T12:31:07.848903"
+      },
+      {
+        "file": "BLANK-NVRAM-JOYSTICK-TEST-REPORT.md",
+        "size": 1894,
+        "mtime": "2026-10-14T10:51:20.830950"
+      },
+      {
+        "file": "COIN-ONLY-REWARD-TEST.md",
+        "size": 1927,
+        "mtime": "2026-10-14T11:19:38.043936"
+      },
+      {
+        "file": "CREDIT-AND-BET-RULES-PHASE-28.md",
+        "size": 780,
+        "mtime": "2026-10-14T14:23:18.249229"
+      },
+      {
+        "file": "CREDIT-BET-ODDS-JACKPOT-RULES-PHASE-29.md",
+        "size": 515,
+        "mtime": "2026-10-14T14:43:05.416226"
+      },
+      {
+        "file": "CREDIT-ENTRY-TEST-LOG-PHASE-27.md",
+        "size": 1337,
+        "mtime": "2026-10-14T14:16:58.900231"
+      },
+      {
+        "file": "CREDIT-ENTRY-VERIFICATION-PLAN.md",
+        "size": 577,
+        "mtime": "2026-10-14T14:11:39.634232"
+      },
+      {
+        "file": "CREDIT-LEDGER-AND-PNL.md",
+        "size": 690,
+        "mtime": "2026-10-14T14:03:13.316233"
+      },
+      {
+        "file": "CURRENT-GAME-STATE.md",
+        "size": 646,
+        "mtime": "2026-10-14T10:36:21.514956"
+      },
+      {
+        "file": "DATA-AUDIT-24H-REPORT.md",
+        "size": 1783,
+        "mtime": "2026-10-14T16:43:15.296551"
+      },
+      {
+        "file": "DATA-AUDIT-POST-REBOOT.md",
+        "size": 1381,
+        "mtime": "2026-10-14T21:01:33.041234"
+      },
+      {
+        "file": "DEMO-COIN-TEST-5-KEY.md",
+        "size": 928,
+        "mtime": "2026-10-14T11:53:24.965921"
+      },
+      {
+        "file": "DEMO-COIN-TEST-BASELINE.md",
+        "size": 668,
+        "mtime": "2026-10-14T11:49:21.320923"
+      },
+      {
+        "file": "DEMO-COIN-TEST-REPORT.md",
+        "size": 1141,
+        "mtime": "2026-10-14T11:53:28.902921"
+      },
+      {
+        "file": "DEMO-MODE-OPTIONS.md",
+        "size": 1083,
+        "mtime": "2026-10-14T11:44:57.075925"
+      },
+      {
+        "file": "DEMO-MODE-TEST-PLAN.md",
+        "size": 1375,
+        "mtime": "2026-10-14T11:45:16.589925"
+      },
+      {
+        "file": "DIP-AND-START-CONDITION-REPORT.md",
+        "size": 1999,
+        "mtime": "2026-10-14T10:51:25.118950"
+      },
+      {
+        "file": "DIP-RUNTIME-VALUE-TRACE.md",
+        "size": 1869,
+        "mtime": "2026-10-14T10:58:23.718946"
+      },
+      {
+        "file": "DIP-STORAGE-AND-CONTROL-REPORT.md",
+        "size": 1674,
+        "mtime": "2026-10-14T10:55:02.634948"
+      },
+      {
+        "file": "DOUBLE-UP-DATA-MODEL.md",
+        "size": 274,
+        "mtime": "2026-10-14T14:03:13.320233"
+      },
+      {
+        "file": "DOUBLE-UP-RULE-LEARNING-PLAN.md",
+        "size": 831,
+        "mtime": "2026-10-14T13:59:59.841234"
+      },
+      {
+        "file": "DSW2-START-RUNTIME-TRACE.md",
+        "size": 1546,
+        "mtime": "2026-10-14T11:01:25.425945"
+      },
+      {
+        "file": "FIRST-ROUND-RECORD-VALIDATION.md",
+        "size": 467,
+        "mtime": "2026-10-14T14:16:58.903231"
+      },
+      {
+        "file": "GAME-BACKEND-AND-SETTINGS-PHASE-29.md",
+        "size": 593,
+        "mtime": "2026-10-14T14:43:00.827226"
+      },
+      {
+        "file": "GAME-BACKEND-ENTRY-RESEARCH-PHASE-28.md",
+        "size": 981,
+        "mtime": "2026-10-14T14:23:14.080229"
+      },
+      {
+        "file": "GAME-CONFIGURATION-MODEL-DESIGN-PHASE-28.md",
+        "size": 527,
+        "mtime": "2026-10-14T14:23:22.431229"
+      },
+      {
+        "file": "GAME-DATA-SOURCE-DECISION.md",
+        "size": 1082,
+        "mtime": "2026-10-14T12:48:43.440895"
+      },
+      {
+        "file": "GAME-ENTRY-CRITERIA.md",
+        "size": 902,
+        "mtime": "2026-10-14T09:56:34.271975"
+      },
+      {
+        "file": "GAME-EXPERIENCE-MEMORY-DESIGN-PHASE-29.md",
+        "size": 617,
+        "mtime": "2026-10-14T14:43:05.418226"
+      },
+      {
+        "file": "GAME-EXPERIENCE-SCHEMA.md",
+        "size": 687,
+        "mtime": "2026-10-14T14:00:05.684234"
+      },
+      {
+        "file": "GAME-KEYMAP-REFERENCE-PHASE-29.md",
+        "size": 1427,
+        "mtime": "2026-10-14T14:42:56.141226"
+      },
+      {
+        "file": "GAME-KNOWLEDGE-BASE-PHASE-29.md",
+        "size": 1502,
+        "mtime": "2026-10-14T14:42:56.139226"
+      },
+      {
+        "file": "GAME-RECORDING-SCHEMA.md",
+        "size": 921,
+        "mtime": "2026-10-14T14:03:13.313233"
+      },
+      {
+        "file": "GAME-RULE-ADAPTER-DESIGN-PHASE-23.md",
+        "size": 1650,
+        "mtime": "2026-10-14T13:18:07.806882"
+      },
+      {
+        "file": "GAME-RULE-EVIDENCE-STORE-PHASE-30.md",
+        "size": 697,
+        "mtime": "2026-10-14T14:50:59.653357"
+      },
+      {
+        "file": "GAME-RULES-EVIDENCE-MATRIX-PHASE-23.md",
+        "size": 1448,
+        "mtime": "2026-10-14T13:18:00.836882"
+      },
+      {
+        "file": "GAME-RULES-INVESTIGATION-PHASE-12.md",
+        "size": 1144,
+        "mtime": "2026-10-14T12:48:32.083895"
+      },
+      {
+        "file": "GAME-RULES-SOURCE-AUDIT-PHASE-23.md",
+        "size": 1281,
+        "mtime": "2026-10-14T13:18:00.838882"
+      },
+      {
+        "file": "GAME-SESSION-RECORDER-PHASE-30.md",
+        "size": 540,
+        "mtime": "2026-10-14T14:50:59.655357"
+      },
+      {
+        "file": "GAME-SETTINGS-CATALOG-PHASE-28.md",
+        "size": 729,
+        "mtime": "2026-10-14T14:23:14.083229"
+      },
+      {
+        "file": "GAME-SETTINGS-IMPACT-MATRIX-PHASE-29.md",
+        "size": 428,
+        "mtime": "2026-10-14T14:43:00.832226"
+      },
+      {
+        "file": "GAME-SKILL-TREE-PHASE-30.md",
+        "size": 1090,
+        "mtime": "2026-10-14T14:50:55.475357"
+      },
+      {
+        "file": "GAME-STATE-AND-TRANSITION-MAP-PHASE-29.md",
+        "size": 743,
+        "mtime": "2026-10-14T14:43:00.836226"
+      },
+      {
+        "file": "GAME-STATE-BASELINE-PHASE-21-REPORT.md",
+        "size": 1006,
+        "mtime": "2026-10-14T13:11:10.638885"
+      },
+      {
+        "file": "GAME-STATE-CLASSIFICATION-REVISION-PHASE-26.md",
+        "size": 935,
+        "mtime": "2026-10-14T14:11:39.628232"
+      },
+      {
+        "file": "GAME-STATE-CLASSIFICATION-SPEC.md",
+        "size": 1259,
+        "mtime": "2026-10-14T13:04:22.085414"
+      },
+      {
+        "file": "GAME-STATE-CLASSIFIER-PHASE-19-REPORT.md",
+        "size": 959,
+        "mtime": "2026-10-14T13:06:06.742887"
+      },
+      {
+        "file": "GAME-STATE-CONSISTENCY-AUDIT-PHASE-18.md",
+        "size": 1936,
+        "mtime": "2026-10-14T13:04:14.737888"
+      },
+      {
+        "file": "GAME-STATE-DATA-COLLECTION-PLAN.md",
+        "size": 611,
+        "mtime": "2026-10-14T13:07:11.773887"
+      },
+      {
+        "file": "GAME-STATE-DATA-OPTIONS.md",
+        "size": 780,
+        "mtime": "2026-10-14T12:47:14.912896"
+      },
+      {
+        "file": "GAME-STATE-MACHINE-DESIGN.md",
+        "size": 756,
+        "mtime": "2026-10-14T13:59:59.839234"
+      },
+      {
+        "file": "GAME-STATE-OCR-FEASIBILITY-PHASE-20.md",
+        "size": 2460,
+        "mtime": "2026-10-14T13:07:11.771299"
+      },
+      {
+        "file": "GAME-TEST-ROUND1-REPORT.md",
+        "size": 1225,
+        "mtime": "2026-10-14T14:08:30.429232"
+      },
+      {
+        "file": "GRAND-SLAM-DATA-MODEL.md",
+        "size": 255,
+        "mtime": "2026-10-14T14:03:13.323233"
+      },
+      {
+        "file": "GRAND-SLAM-RULE-LEARNING-PLAN.md",
+        "size": 636,
+        "mtime": "2026-10-14T13:59:59.844234"
+      },
+      {
+        "file": "HUMAN-BEHAVIOR-MODEL.md",
+        "size": 418,
+        "mtime": "2026-10-14T14:03:13.318233"
+      },
+      {
+        "file": "INPUT-ALTERNATION-ANALYSIS.md",
+        "size": 3842,
+        "mtime": "2026-10-14T09:33:02.430230"
+      },
+      {
+        "file": "INPUT-DIAGNOSIS.md",
+        "size": 4148,
+        "mtime": "2026-10-14T08:37:36.802255"
+      },
+      {
+        "file": "INPUT-PIPELINE-DIAGNOSTIC-PHASE-14.md",
+        "size": 1308,
+        "mtime": "2026-10-14T12:54:18.682893"
+      },
+      {
+        "file": "INPUT-RELIABILITY-PHASE-13-REPORT.md",
+        "size": 1316,
+        "mtime": "2026-10-14T12:51:25.428894"
+      },
+      {
+        "file": "INPUT-RELIABILITY-REPORT.md",
+        "size": 2839,
+        "mtime": "2026-10-14T09:15:20.464238"
+      },
+      {
+        "file": "INPUT-RESULT-RECONCILIATION.md",
+        "size": 1768,
+        "mtime": "2026-10-14T10:06:25.178970"
+      },
+      {
+        "file": "INPUT-TEST-PRECONDITION-CHECKLIST.md",
+        "size": 1463,
+        "mtime": "2026-10-14T13:04:22.086601"
+      },
+      {
+        "file": "INPUT-TEST-REPORT.md",
+        "size": 3319,
+        "mtime": "2026-10-14T08:45:08.893252"
+      },
+      {
+        "file": "LOW-COST-INPUT-DIAGNOSTICS.md",
+        "size": 712,
+        "mtime": "2026-10-14T11:03:28.587944"
+      },
+      {
+        "file": "MAHJONG-ALGORITHM-QUALITY-AUDIT.md",
+        "size": 814,
+        "mtime": "2026-10-14T12:48:43.442895"
+      },
+      {
+        "file": "MAHJONG-INPUT-TEST-REPORT.md",
+        "size": 2243,
+        "mtime": "2026-10-14T11:35:37.903929"
+      },
+      {
+        "file": "MAHJONG-KEY-MAPPING.md",
+        "size": 887,
+        "mtime": "2026-10-14T11:31:41.747931"
+      },
+      {
+        "file": "MAHJONG-RULE-ENGINE-PHASE-11-REPORT.md",
+        "size": 876,
+        "mtime": "2026-10-14T12:47:14.914896"
+      },
+      {
+        "file": "MAHJONG-RULE-ENGINE-QUALITY-AUDIT-PHASE-22.md",
+        "size": 1155,
+        "mtime": "2026-10-14T13:14:18.457884"
+      },
+      {
+        "file": "MAHJONG-RULE-ENGINE-REPORT.md",
+        "size": 982,
+        "mtime": "2026-10-14T12:45:40.141897"
+      },
+      {
+        "file": "MAHJONG-RULE-ENGINE-STATUS-PHASE-20.md",
+        "size": 610,
+        "mtime": "2026-10-14T13:07:11.774887"
+      },
+      {
+        "file": "MAHJONG-RULE-ENGINE-TEST-EXPANSION-PHASE-21.md",
+        "size": 766,
+        "mtime": "2026-10-14T13:11:10.640885"
+      },
+      {
+        "file": "MAHJONG-RULE-LEARNING-ENGINE-PHASE-30.md",
+        "size": 326,
+        "mtime": "2026-10-14T14:50:59.656357"
+      },
+      {
+        "file": "MAHJONG-RULES-EVIDENCE.md",
+        "size": 956,
+        "mtime": "2026-10-14T12:46:57.637896"
+      },
+      {
+        "file": "MAHJONG-WINDOW-TIMING.md",
+        "size": 860,
+        "mtime": "2026-10-14T11:35:31.751929"
+      },
+      {
+        "file": "MAIN-GAME-BASELINE.md",
+        "size": 627,
+        "mtime": "2026-10-14T11:29:03.586932"
+      },
+      {
+        "file": "MAIN-GAME-ENTRY-REPORT.md",
+        "size": 7333,
+        "mtime": "2026-10-14T11:45:21.877925"
+      },
+      {
+        "file": "MAME-DIP-CONFIGURATION-PATH.md",
+        "size": 750,
+        "mtime": "2026-10-14T10:58:27.723946"
+      },
+      {
+        "file": "MAME-INPUT-BACKEND-AUDIT-PHASE-15.md",
+        "size": 1516,
+        "mtime": "2026-10-14T12:56:01.467892"
+      },
+      {
+        "file": "MAME-INPUT-END-TO-END-EVIDENCE.md",
+        "size": 493,
+        "mtime": "2026-10-14T13:01:14.766566"
+      },
+      {
+        "file": "MAME-INPUT-END-TO-END-TEST-PHASE-17.md",
+        "size": 1454,
+        "mtime": "2026-10-14T13:01:14.763890"
+      },
+      {
+        "file": "MAME-INPUT-OBSERVABILITY-MATRIX.md",
+        "size": 856,
+        "mtime": "2026-10-14T12:58:57.386891"
+      },
+      {
+        "file": "MAME-INPUT-OBSERVABILITY-PHASE-16.md",
+        "size": 2356,
+        "mtime": "2026-10-14T12:58:46.031891"
+      },
+      {
+        "file": "MAME-INPUT-TEST-AUTHORIZATION-REQUEST.md",
+        "size": 1168,
+        "mtime": "2026-10-14T12:58:57.387891"
+      },
+      {
+        "file": "MAME-INPUT-VALIDATION-PLAN.md",
+        "size": 1900,
+        "mtime": "2026-10-14T12:56:01.469892"
+      },
+      {
+        "file": "MAME-OBSERVABILITY-AUDIT.md",
+        "size": 1361,
+        "mtime": "2026-10-14T12:48:37.331895"
+      },
+      {
+        "file": "MAME-UI-DIAGNOSIS-REPORT.md",
+        "size": 971,
+        "mtime": "2026-10-14T10:55:13.767948"
+      },
+      {
+        "file": "MAME-VERSION-AND-DRIVER-AUDIT.md",
+        "size": 1010,
+        "mtime": "2026-10-14T10:57:53.554947"
+      },
+      {
+        "file": "MODEL-EVALUATION-PLAN.md",
+        "size": 362,
+        "mtime": "2026-10-14T14:03:21.947233"
+      },
+      {
+        "file": "NEXT-STEP-DECISION-PHASE-23.md",
+        "size": 928,
+        "mtime": "2026-10-14T13:18:07.809882"
+      },
+      {
+        "file": "NEXT-TEST-PLAN.md",
+        "size": 1098,
+        "mtime": "2026-10-14T11:03:33.550944"
+      },
+      {
+        "file": "NVRAM-BASELINE-REPORT.md",
+        "size": 1385,
+        "mtime": "2026-10-14T10:47:33.784951"
+      },
+      {
+        "file": "ODDS-EXPLOSION-RETURN-6-OR-W-PHASE-29.md",
+        "size": 694,
+        "mtime": "2026-10-14T14:43:05.414226"
+      },
+      {
+        "file": "ODDS-HALF-FULL-JACKPOT-LEARNING-PLAN-PHASE-30.md",
+        "size": 462,
+        "mtime": "2026-10-14T14:50:59.657357"
+      },
+      {
+        "file": "ODDS-INPUT-CHAIN-REPORT.md",
+        "size": 1792,
+        "mtime": "2026-10-14T12:23:21.155907"
+      },
+      {
+        "file": "ODDS-LIMIT-2000-INVESTIGATION.md",
+        "size": 613,
+        "mtime": "2026-10-14T14:23:18.247229"
+      },
+      {
+        "file": "ODDS-RELIABLE-INPUT-REPORT.md",
+        "size": 1859,
+        "mtime": "2026-10-14T12:26:27.606906"
+      },
+      {
+        "file": "ODDS-REPRODUCIBILITY-REPORT.md",
+        "size": 1285,
+        "mtime": "2026-10-14T12:00:38.603918"
+      },
+      {
+        "file": "ODDS-START-TEST.md",
+        "size": 879,
+        "mtime": "2026-10-14T11:57:37.396919"
+      },
+      {
+        "file": "PHASE-24-IMPLEMENTATION-REPORT.md",
+        "size": 1620,
+        "mtime": "2026-10-14T14:00:05.690234"
+      },
+      {
+        "file": "PHASE-25-IMPLEMENTATION-REPORT.md",
+        "size": 1462,
+        "mtime": "2026-10-14T14:03:21.950233"
+      },
+      {
+        "file": "PHASE-26-TEST-REPORT.md",
+        "size": 986,
+        "mtime": "2026-10-14T14:11:39.640232"
+      },
+      {
+        "file": "PHASE-27-IMPLEMENTATION-REPORT.md",
+        "size": 1059,
+        "mtime": "2026-10-14T14:16:58.908231"
+      },
+      {
+        "file": "PHASE-28-BASELINE-AUDIT.md",
+        "size": 959,
+        "mtime": "2026-10-14T14:23:09.177229"
+      },
+      {
+        "file": "PHASE-28-IMPLEMENTATION-REPORT.md",
+        "size": 1515,
+        "mtime": "2026-10-14T14:23:27.343229"
+      },
+      {
+        "file": "PHASE-28-TEST-REPORT.md",
+        "size": 690,
+        "mtime": "2026-10-14T14:23:27.341229"
+      },
+      {
+        "file": "PHASE-29-IMPLEMENTATION-REPORT.md",
+        "size": 1571,
+        "mtime": "2026-10-14T14:43:11.062226"
+      },
+      {
+        "file": "PHASE-29-TEST-REPORT.md",
+        "size": 905,
+        "mtime": "2026-10-14T14:43:11.060226"
+      },
+      {
+        "file": "PHASE-30-IMPLEMENTATION-REPORT.md",
+        "size": 1500,
+        "mtime": "2026-10-14T14:51:05.499357"
+      },
+      {
+        "file": "PHASE-30-TEST-REPORT.md",
+        "size": 860,
+        "mtime": "2026-10-14T14:51:05.498357"
+      },
+      {
+        "file": "PHASE-31-IMPLEMENTATION-REPORT.md",
+        "size": 1138,
+        "mtime": "2026-10-14T14:53:44.866363"
+      },
+      {
+        "file": "PHASE-31-Q001-RESULT.md",
+        "size": 705,
+        "mtime": "2026-10-14T14:53:44.865363"
+      },
+      {
+        "file": "PHASE-32-DIP-FINDINGS.md",
+        "size": 1370,
+        "mtime": "2026-10-14T15:01:41.616382"
+      },
+      {
+        "file": "PHASE-32-FINAL-REPORT.md",
+        "size": 1280,
+        "mtime": "2026-10-14T15:06:50.700394"
+      },
+      {
+        "file": "PHASE-32-Q002-RESULT.md",
+        "size": 766,
+        "mtime": "2026-10-14T14:58:14.522374"
+      },
+      {
+        "file": "RECOVERY-AND-STATE-INVENTORY.md",
+        "size": 1577,
+        "mtime": "2026-10-14T10:47:13.024951"
+      },
+      {
+        "file": "ROM-DATA-FEASIBILITY-REPORT.md",
+        "size": 1570,
+        "mtime": "2026-10-14T12:45:20.626897"
+      },
+      {
+        "file": "ROM-DISASSEMBLY-REPORT.md",
+        "size": 737,
+        "mtime": "2026-10-14T11:45:07.673925"
+      },
+      {
+        "file": "ROM-STRUCTURE-REPORT.md",
+        "size": 1507,
+        "mtime": "2026-10-14T11:44:41.566925"
+      },
+      {
+        "file": "RUNTIME-INPUT-AUDIT.md",
+        "size": 1923,
+        "mtime": "2026-10-14T11:00:48.066945"
+      },
+      {
+        "file": "SCREENSHOT-QUALITY-AUDIT.md",
+        "size": 1332,
+        "mtime": "2026-10-14T12:43:10.873898"
+      },
+      {
+        "file": "SIMULATION-ENGINE-DESIGN.md",
+        "size": 457,
+        "mtime": "2026-10-14T14:03:21.945233"
+      },
+      {
+        "file": "SINGLE-BET-VERIFICATION-LOG-PHASE-28.md",
+        "size": 730,
+        "mtime": "2026-10-14T14:23:22.429229"
+      },
+      {
+        "file": "START-KEY-DIAGNOSIS.md",
+        "size": 2761,
+        "mtime": "2026-10-14T10:34:41.976957"
+      },
+      {
+        "file": "STATE-RECOGNITION-REPORT.md",
+        "size": 1733,
+        "mtime": "2026-10-14T08:45:42.776252"
+      },
+      {
+        "file": "TEMPLATE-COVERAGE-REPORT.md",
+        "size": 2659,
+        "mtime": "2026-10-14T09:53:15.117976"
+      },
+      {
+        "file": "TEST-REPORT.md",
+        "size": 3247,
+        "mtime": "2026-10-14T08:33:01.607257"
+      },
+      {
+        "file": "VISION-DATASET-LABELING-TOOL-PHASE-22.md",
+        "size": 703,
+        "mtime": "2026-10-14T13:14:18.461884"
+      },
+      {
+        "file": "VISION-PHASE-7-FINAL-REPORT.md",
+        "size": 1765,
+        "mtime": "2026-10-14T12:34:28.175902"
+      },
+      {
+        "file": "VISION-PHASE-8-FINAL-REPORT.md",
+        "size": 1323,
+        "mtime": "2026-10-14T12:41:21.602899"
+      },
+      {
+        "file": "VISION-README.md",
+        "size": 908,
+        "mtime": "2026-10-14T12:34:28.173902"
+      },
+      {
+        "file": "VISION-REPORT.md",
+        "size": 2791,
+        "mtime": "2026-10-14T09:17:41.749237"
+      },
+      {
+        "file": "X11-ENVIRONMENT-REPORT.md",
+        "size": 1162,
+        "mtime": "2026-10-14T10:06:48.632970"
+      },
+      {
+        "file": "X11-INSTALL-PRECHECK-REPORT.md",
+        "size": 833,
+        "mtime": "2026-10-14T10:10:11.262969"
+      },
+      {
+        "file": "X11-INSTALL-REPORT.md",
+        "size": 1261,
+        "mtime": "2026-10-14T10:12:02.521968"
+      },
+      {
+        "file": "XVFB-TEST-REPORT.md",
+        "size": 1649,
+        "mtime": "2026-10-14T10:29:46.461960"
+      },
+      {
+        "file": "key-mappings.md",
+        "size": 1039,
+        "mtime": "2026-10-14T08:32:51.537257"
+      }
+    ]
+  }
+}

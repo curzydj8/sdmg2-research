@@ -1,0 +1,37 @@
+# 自主学习策略配置
+# 用户已授权在隔离实例中自主研究
+
+version: "1.0"
+authorized_by: "用户"
+date: "2026-10-14"
+
+# 绝对边界（不可突破）
+hard_boundaries:
+  protected_pid: 36644
+  forbidden_actions:
+    - 发送输入到 PID 36644
+    - 暂停/关闭/重启 PID 36644
+    - 修改原始 NVRAM/CFG/ROM/DIP
+
+# 授权范围
+authorized:
+  - 网络资料检索
+  - 源码/配置只读分析
+  - 未知问题管理
+  - 状态识别
+  - 隔离实例中的普通游戏操作
+  - 设置研究（可恢复）
+  - 离线模拟
+  - 回归测试
+
+# 操作限制
+limits:
+  max_retries_per_action: 3
+  require_state_verification: true
+  require_isolation_check: true
+
+# 数据分离
+data_separation:
+  - real_sessions
+  - simulation_sessions  
+  - test_sessions

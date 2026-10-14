@@ -1,0 +1,47 @@
+{
+  "positive": [
+    {
+      "path": "screenshots/bet002-poll3.png",
+      "actual": "MAIN_GAME",
+      "predicted": "MAIN_GAME",
+      "confidence": 0.7,
+      "match": true
+    },
+    {
+      "path": "screenshots/e2e-post-5s.png",
+      "actual": "REWARD",
+      "predicted": "UNKNOWN_STATE",
+      "confidence": 0.0,
+      "match": false
+    },
+    {
+      "path": "screenshots/bet002-reliable-result.png",
+      "actual": "ODDS",
+      "predicted": "UNKNOWN_STATE",
+      "confidence": 0.0,
+      "match": false
+    },
+    {
+      "path": "screenshots/demoA-t0.png",
+      "actual": "TITLE",
+      "predicted": "UNKNOWN_STATE",
+      "confidence": 0.0,
+      "match": false
+    }
+  ],
+  "negative": [
+    {
+      "test": "missing_file",
+      "result": "UNKNOWN_STATE",
+      "expected": "UNKNOWN_STATE",
+      "pass": true
+    },
+    {
+      "test": "empty_path",
+      "result": "UNKNOWN_STATE",
+      "expected": "UNKNOWN_STATE",
+      "pass": true
+    }
+  ],
+  "note": "4 samples used for development, not independent test set"
+}

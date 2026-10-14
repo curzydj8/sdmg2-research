@@ -1,0 +1,23 @@
+{
+  "phase": 14,
+  "date": "2026-10-14",
+  "display": ":99 (Xvfb)",
+  "receiver": "xev",
+  "tool": "xdotool",
+  "tests": [
+    {
+      "name": "no_focus_with_window_flag",
+      "sent": 5,
+      "received": 0,
+      "result": "FAIL"
+    },
+    {
+      "name": "with_focus_windowactivate",
+      "sent": 3,
+      "received": 5,
+      "result": "PASS",
+      "note": "Events are synthetic (XTest)"
+    }
+  ],
+  "conclusion": "Focus activation required for event delivery"
+}

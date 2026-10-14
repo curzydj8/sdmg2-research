@@ -1,0 +1,26 @@
+{
+  "phase": 13,
+  "date": "2026-10-14",
+  "isolation": {
+    "pid_36644_exists": true,
+    "pid_36644_untouched": true,
+    "test_dir": "/tmp/xvfb-test/baseline",
+    "symlinks_found": 0
+  },
+  "input_chain": {
+    "tool": "xdotool",
+    "level_a_verified": true,
+    "level_b_verified": false,
+    "level_c_verified": false,
+    "level_d_verified": false
+  },
+  "baseline": {
+    "screenshots": 3,
+    "input_sent": false,
+    "note": "Only Return to dismiss info screen"
+  },
+  "dynamic_tests": {
+    "executed": 0,
+    "reason": "No confirmed safe test event for this phase"
+  }
+}
